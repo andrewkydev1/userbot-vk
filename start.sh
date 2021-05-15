@@ -1,7 +1,7 @@
 #!/bin/bash
 while :
 do
-    python3.9 main.py
+    python main.py
     echo "Waiting before restarting"
     sleep 3
 done
